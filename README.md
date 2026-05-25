@@ -1,2 +1,2 @@
-# ai-ml-learning-journey
-My AI/ML journey with python projects and experiments
+# AI/ML  JOURNEY
+“This repository tracks my daily AI/ML learning, practice code, and small experiments in Python.”
